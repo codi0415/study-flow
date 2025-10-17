@@ -1,2 +1,2 @@
-# study-flow
-simple desktop study timer for students, adults made by a middle school student
+열품타 답답해서 직접 만듬
+나중에 구글 드라이브랑 연동시켜서 표로 기록할 수 있게 할 예정
