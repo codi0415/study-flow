@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(64, 90, 66);
+}
+
+#title {
+    text-align: center;
+}
+#timetracker {
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+#current_gwamok_front ,#current_gwamok {
+    display: block;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+#gwamok {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 40px;
+    background-color: #263123;
+    color: white;
+}
+#time_start, #time_end,#reset,#save {
+    display: block;
+    margin: 10px auto;
+    font-size: 30px;
+}
